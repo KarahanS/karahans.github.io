@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'wdm', '>= 0.1.0'
+    platforms :mswin do 
+        gem "wdm", :group => [:development, :test]
+      end
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
