@@ -1,0 +1,3 @@
+- Currently, all small images must be in the format of ```.png```. find a way to extract the file extension of the original image and refer to the small version using that extension in ```figure-archive.html```.
+- Find a way to set the colour of the ```data-title``` property of **lightbox** to white. For now, I'm doing it manually on ```figure-archive.html```. However, there may be a better, elegant solution for that.
+- Find a way to put the images in fix-sized boxes.

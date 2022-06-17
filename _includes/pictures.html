@@ -1,0 +1,14 @@
+
+<link rel="stylesheet" type="text/css" href="../assets/css/lightbox.min.css">
+<script src="../assets/js/lightbox-plus-jquery.min.js"></script>
+<!-- _includes/pictures.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+      <div class="card hoverable" data-lightbox="s">
+        {%- if archive.img %}
+        {%- include figure-archive.html
+          path=archive.img
+          alt="archive thumbnail" -%}
+        {%- endif %}
+    </div>
+</div>

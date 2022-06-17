@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here you can find some of the projects/works I've done.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
-horizontal: false
+display_categories: 
+horizontal: false 
 ---
 
 <!-- pages/projects.md -->
@@ -19,6 +19,7 @@ horizontal: false
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
+  
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}

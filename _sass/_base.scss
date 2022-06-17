@@ -389,6 +389,15 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
+  .img-arc {
+    transition: 1s;
+    padding: 5px;
+  }
+  .img-arc:hover {
+    filter: grayscale(100%);
+    transform: scale(1.05)
+  }
+
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
