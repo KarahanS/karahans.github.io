@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description: old, grumpy house
+description: bluebird
 img: assets/img/house.JPG
 importance: 2
 category: photo

@@ -2,9 +2,9 @@
 layout: page
 title: archive
 permalink: /archive/
-description: A collection of photos taken by me or someone close to me.
+description: A collection of photos taken by me or someone close to me. Some of the photos here are taken with a professional camera, others by phone.
 nav: true
-nav_order: 1
+nav_order: 3
 display_categories: 
 horizontal: false 
 ---

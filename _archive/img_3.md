@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description: little cat hiding in the shadows
+description: not alone
 img: assets/img/cat.jpeg
 importance: 3
 category: photo
