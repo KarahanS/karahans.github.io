@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings.
 
-I'm Karahan. I'm an undergraduate Computer Engineering student at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). Currently I'm working as an _Associate Developer_ at [Trendyol](https://tr.linkedin.com/company/trendyolgroup) in Data Engineering Department.
+I'm Karahan. I'm an undergraduate Computer Engineering student at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). Currently I'm working as an Associate Developer at [Trendyol](https://tr.linkedin.com/company/trendyolgroup) in Data Engineering Team.
 
 
 
