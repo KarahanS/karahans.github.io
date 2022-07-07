@@ -3,7 +3,7 @@ layout: resume
 permalink: /resume/
 title: resume
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 <h1>curriculum vitae</h1>
 <!-- Place PDF download link at the top right. -->
