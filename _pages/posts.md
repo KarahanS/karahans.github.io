@@ -24,7 +24,7 @@ pagination:
 
 
   <ul class="post-list">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
@@ -83,6 +83,5 @@ pagination:
     {% endfor %}
   </ul>
 
-  {% include pagination.html %}
 
 </div>
