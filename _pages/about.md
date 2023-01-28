@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings.
 
-I am an undergraduate Computer Engineering student at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). I'm interested in the Mathematics of Deep Learning and Theoretical Computer Science.   
+I am an undergraduate Computer Engineering student at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). I'm interested in Deep Learning and Theoretical Computer Science.   
 
 
 
