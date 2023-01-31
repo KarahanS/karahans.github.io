@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   address:
   
 
