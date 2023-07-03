@@ -85,9 +85,10 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 # use the word 'rambling' for 'karalama'
-blog_name: blog # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: math, computer science and philosophy
+blog_title: math, computer science and philosophy
+blog_description: Welcome to my blog, where you'll discover my book summaries, analyses, and short essays. Writing is akin to therapy, allowing me to share my poisonous ideas with you.
 # permalink: /blog/:year/:title/
 
 # Pagination
