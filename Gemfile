@@ -1,19 +1,30 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+<<<<<<< HEAD
     platforms :mswin do 
         gem "wdm", :group => [:development, :test]
       end
+=======
+    gem 'classifier-reborn'
+>>>>>>> c1f168473f7cddb32c24404607e4fd181d189132
     gem 'jekyll'
     gem 'jekyll-archives'
-    gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
+    gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
+<<<<<<< HEAD
 gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
+=======
+    gem 'jekyll-sitemap'
+    gem 'jekyll-toc'
+>>>>>>> c1f168473f7cddb32c24404607e4fd181d189132
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     # gem 'mini_racer'
@@ -21,6 +32,6 @@ gem 'jekyll-sitemap'
     gem 'webrick'
 end
 group :other_plugins do
-    gem 'httparty'
     gem 'feedjira'
+    gem 'httparty'
 end
