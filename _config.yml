@@ -90,7 +90,7 @@ blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_title: math, computer science and philosophy
 blog_description: >
-  Welcome to my blog, where you can explore my book summaries, analyses, and brief essays. I'm looking forward to adding more content very soon.
+  Just wanted to share some stuff, I'm looking forward to adding more content very soon.
 
    
 # permalink: /blog/:year/:title/
