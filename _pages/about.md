@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings, thanks for stopping by.
 
-I'm a M.Sc. student in Machine Learning at [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/machine-learning/).
+I'm an M.Sc. student in Machine Learning at [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/machine-learning/).
 I graduated with a B.Sc. in Computer Engineering at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). I'm interested in Machine Learning, Explainability, and Theoretical Computer Science.
 
 
