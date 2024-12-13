@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: repositories
+permalink: /repositories/
 description: Here you can find some of the projects/works I've done.
 nav: true
 nav_order: 2

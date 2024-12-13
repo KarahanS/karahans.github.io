@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-subtitle: <p style="font-size:16px;">An Algorithm Enthusiast</p> 
+subtitle: <p style="font-size:16px;"></p> 
 permalink: /
 
 profile:
