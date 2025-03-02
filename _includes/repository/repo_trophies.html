@@ -1,0 +1,34 @@
+<style>
+    .repo {
+        margin-bottom: 0.3rem; /* Further reduced from 0.5rem */
+      }
+    .repo-img-light, .repo-img-dark {
+      max-width: 100%;
+      height: auto;
+    }
+    .w-100 {
+      width: 100%;
+      max-width: 500px; /* Increased from 450px */
+    }
+    .w-200 {
+      width: 100%;
+      max-width: 700px; /* Increased from 600px */
+    }
+    /* Only show appropriate theme based on user's preference */
+    @media (prefers-color-scheme: dark) {
+      .repo-img-light { display: none; }
+    }
+    @media (prefers-color-scheme: light) {
+      .repo-img-dark { display: none; }
+    }
+    /* Reduce padding to minimize space */
+    .p-2 {
+        padding: 0.25rem !important; /* Reduced from 0.5rem */
+      }
+  </style>
+<div class="repo p-2 text-center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img class="repo-img-light w-200" alt="{{ include.username }}" src="https://github-profile-trophy.vercel.app/?username={{ include.username }}&theme={{ site.repo_trophies.theme_light }}&locale={{ site.lang }}&margin-w=5&margin-h=5&no-bg=true&rank=-C">
+      <img class="repo-img-dark w-200" alt="{{ include.username }}" src="https://github-profile-trophy.vercel.app/?username={{ include.username }}&theme={{ site.repo_trophies.theme_dark }}&locale={{ site.lang }}&margin-w=5&margin-h=5&no-bg=true&rank=-C">
+    </a>
+  </div>

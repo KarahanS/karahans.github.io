@@ -1,0 +1,33 @@
+<style>
+    .repo {
+        margin-bottom: 0.3rem; /* Reduced from 1rem */
+      }
+    .repo-img-light, .repo-img-dark {
+      max-width: 100%;
+      height: auto;
+    }
+    .w-100 {
+      width: 100%;
+      max-width: 450px; /* Limit maximum width */
+    }
+    .w-200 {
+      width: 100%;
+      max-width: 600px; /* Limit maximum width */
+    }
+    /* Only show appropriate theme based on user's preference */
+    @media (prefers-color-scheme: dark) {
+      .repo-img-light { display: none; }
+    }
+    @media (prefers-color-scheme: light) {
+      .repo-img-dark { display: none; }
+    }
+    .p-2 {
+        padding: 0.25rem !important;
+      }
+  </style>
+<div class="repo p-2 text-center">
+    <a href="https://github.com/{{ include.username }}">
+      <img class="repo-img-light w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true">
+      <img class="repo-img-dark w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true">
+    </a>
+  </div>
