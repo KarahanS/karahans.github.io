@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Greetings, thanks for stopping by.
 
 I'm an M.Sc. student in Machine Learning at [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/machine-learning/).
-I graduated with a B.Sc. in Computer Engineering at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). I'm interested in Representation Learning, Trustworthy Machine Learning and Generative Models (especially LLMs).
+I graduated with a B.Sc. in Computer Engineering at [Boğaziçi University](https://www.cmpe.boun.edu.tr/). I'm interested in Representation Learning, Self-Supervised Learning, Multimodal Learning and LLMs.
 
 
 If you are interested in my work or would like to chat about common interests, potential collaboration, etc., please feel free to get in touch!
