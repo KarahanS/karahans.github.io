@@ -129,7 +129,7 @@ collections:
   blog:
     output: true
     permalink: /page/:num/
-news_limit: 5
+news_limit: 10 # 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
